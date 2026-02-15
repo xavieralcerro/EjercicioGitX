@@ -13,12 +13,15 @@ namespace EjercicioGitX
 
             Console.WriteLine("\n=== INFORMACIÓN ACADÉMICA ===");
             Console.WriteLine("Carrera: Ingeniería en Sistemas");
-            Console.WriteLine("Semestre: Actual");
-            Console.WriteLine("Asignatura: Programación");
+            Console.WriteLine("Trimestre: 1");
+            Console.WriteLine("Asignatura: POO");
 
             Console.WriteLine("\n=== MENSAJE ===");
-            Console.WriteLine("¡Chambaaa!");
-            Console.WriteLine("Este es mi tercer commit en develop");
+            Console.WriteLine("¡Aprendiendo Git y GitHub!");
+            Console.WriteLine("Este es mi cuarto commit en develop");
+
+            Console.WriteLine("\n=== PRESIONE UNA TECLA PARA SALIR ===");
+            Console.ReadKey();
         }
     }
 }
