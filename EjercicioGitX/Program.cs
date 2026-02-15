@@ -15,6 +15,10 @@ namespace EjercicioGitX
             Console.WriteLine("Carrera: Ingeniería en Sistemas");
             Console.WriteLine("Semestre: Actual");
             Console.WriteLine("Asignatura: Programación");
+
+            Console.WriteLine("\n=== MENSAJE ===");
+            Console.WriteLine("¡Chambaaa!");
+            Console.WriteLine("Este es mi tercer commit en develop");
         }
     }
 }
